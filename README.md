@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Vinayagamurthy 
 
-MSc **Intelligent Manufacturing** student at **TU Clausthal, Germany** — bridging mechanical engineering with Python-based automation and computer vision.
+MSc **Intelligent Manufacturing** student at **TU Clausthal, Germany** - bridging mechanical engineering with Python-based automation and computer vision.
 
 I build things at the intersection of **hardware and software**: optical measurement systems, FEA-validated mechanical designs, and smart manufacturing tools.
 
