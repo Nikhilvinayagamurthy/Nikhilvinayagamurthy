@@ -6,7 +6,7 @@ I build things at the intersection of **hardware and software**: optical measure
 
 ---
 
-## 🔬 What I Work On
+## What I Work On
 
 | Area | Tools |
 |------|-------|
