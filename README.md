@@ -42,7 +42,7 @@ Design modification and virtual testing of a stair-climbing rover at TU Claustha
 -  MSc Intelligent Manufacturing — TU Clausthal (ongoing)
 -  Based in Germany · Open to Werkstudent / Praktikum / Internship roles
 -  Working language: English · German A2 (improving)
--  IEEE publication in computer vision measurement systems
+-  IEEE publication in Smart Helmet with Pollution Reduction, Accident Detection, and Real-Time Alerting System
 
 ---
 
